@@ -1,0 +1,1 @@
+Easy groupable component based on Flex's AdvancedDataGrid
